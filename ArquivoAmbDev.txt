@@ -1,1 +1,7 @@
 Esse é o arquivo criado dentro de AmbDev!
+
+passo 1
+passo 2
+passo 3
+
+fim.
